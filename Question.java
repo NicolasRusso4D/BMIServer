@@ -15,7 +15,7 @@ public class Question {
    public Question(String questionText) {
 
       text = questionText;
-      answer = "";
+      answer = "Risposta: ";
    }
 
    /**
